@@ -1,6 +1,6 @@
 # chatgpt.com/
 copilot.microsoft.com/
-# hemini.google.com/app
+# gemini.google.com/app
 # www.deepseek.com/
 claude.ai/onboarding
 cursor.com/
