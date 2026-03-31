@@ -2,7 +2,7 @@
 # www.chatgpt.com
 copilot.microsoft.com
 # gemini.google.com
-www.gemini.google.com
+# www.gemini.google.com
 # deepseek.com
 www.deepseek.com
 claude.ai
@@ -11,7 +11,6 @@ synthesia.io
 www.synthesia.io
 clawbotpro.ai
 openclaw.ai
-grok.ai
 arena.ai
 lumio.ai
 zapier.com
