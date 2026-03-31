@@ -1,22 +1,21 @@
-# chatgpt.com/
-copilot.microsoft.com/
-# gemini.google.com/app
-# www.deepseek.com/
-claude.ai/onboarding
-cursor.com/
-www.synthesia.io/
-clawbotpro.ai/
-openclaw.ai/
-grok.ai/
-arena.ai/
-lumio.ai/
-zapier.com/ai
-www.perplexity.ai/
-agpt.co/
-multiple.chat/
-www.blackboxai.com/
-openrouter.ai/
-www.jan.ai/
-openrouter.ai/
-harpa.ai/
-www.agentlocker.ai/
+# chatgpt.com
+# www.chatgpt.com
+copilot.microsoft.com
+# gemini.google.com
+www.gemini.google.com
+# deepseek.com
+www.deepseek.com
+claude.ai
+www.claude.ai
+synthesia.io
+www.synthesia.io
+clawbotpro.ai
+openclaw.ai
+grok.ai
+arena.ai
+lumio.ai
+zapier.com
+zapier.com/ai   
+perplexity.ai
+www.perplexity.ai
+agpt.co
