@@ -4,7 +4,7 @@ copilot.microsoft.com
 # gemini.google.com
 # www.gemini.google.com
 # deepseek.com
-www.deepseek.com
+# www.deepseek.com
 claude.ai
 www.claude.ai
 synthesia.io
